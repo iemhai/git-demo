@@ -15,4 +15,5 @@ yyHELLO GIT
 yyHELLO GIT
 ok this is  master!
 ok this is hot-fix!
-pushed to github successfully!
+pushed to github from git successfully!
+pushed to github from git successfully!
